@@ -10,7 +10,7 @@ const Data = [
     key: 2,
     title: "Monitoring Pertanian",
     descripsi:
-      "Aplikasi monitorng petani mulai dari penerimaan pupuk hingga laporan. Aplikasi ini menampilkan lokasi persawahan petani.",
+      "Aplikasi monitorng petani mulai dari penerimaan pupuk hingga laporan. Aplikasi ini menampilkan lokasi persawahan petani. Aplikasi ini di desain untuk tampil pada beberapa platform yaitu androdi, ios, dan website.",
     image: require("../Assets/portofolio2.jpeg"),
     bahasa: "DART FRAMEWORK FLUTTER, FIREBASE, OPEN STREETMAP, API CUACA, API BERITA",
   },

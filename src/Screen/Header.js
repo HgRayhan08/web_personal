@@ -13,8 +13,8 @@ const Header = () => {
           <h1 className="text-2xl font-black font-nurito sm:text-4xl lg:text-5xl">
             Hugo Rayhan Firmansyah
           </h1>
-          <h2 className="text-xl font-bold font-nurito  sm:text-3xl text-neutral-700">
-            Front-End Developer
+          <h2 className="text-xl font-bold font-nurito mt-2 sm:text-3xl text-neutral-700">
+           Junior Flutter Developer
           </h2>
           <hr className=" w-[500px] border-t-[4px] shadow-lg rounded-full" />
         </div>

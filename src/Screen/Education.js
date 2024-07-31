@@ -19,11 +19,10 @@ const Education = () => {
       </div>
       <div className="bg-white rounded-lg p-3 my-7 border-b-4 border-gray-700 sm:w-[500px] lg:w-700">
         <div className="flex justify-between font-Verela font-semibold">
-          <p>2020-</p>
+          <p>2020 -</p>
           <p>Surabaya</p>
         </div>
-
-        <h1>INSTITUT TEKNOLOGI TELKOM SURABAYA</h1>
+        <h1>TELKOM UNIVERSITY SURABAYA</h1>
       </div>
     </div>
   );

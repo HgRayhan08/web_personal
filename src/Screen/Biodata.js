@@ -32,7 +32,7 @@ const Biodata = () => {
           <tr className="border-b-2 ">
             <td>Alamat</td>
             <td>:</td>
-            <td>Surabaya</td>
+            <td>Wonokromo, Kota Surabaya</td>
           </tr>
           <tr className="border-b-2 ">
             <td>Nomor Telpon</td>
@@ -56,8 +56,8 @@ const Biodata = () => {
                 Web Development
               </h1>
               <h2 className="text-sm font-Verela h-10 lg:text-xs lg:mt-3">
-                Menguasai bahasa pemrograman seperti Javascript, CSS, HTML, dan
-                PHP. Menguasai framework React js dan Tailwindcss
+                Menguasai bahasa pemrograman seperti Javascript, CSS, HTML.
+                
               </h2>
             </div>
           </div>
@@ -72,8 +72,8 @@ const Biodata = () => {
                 Mobile Development
               </h1>
               <h2 className="text-sm font-Verela h-10 lg:text-xs lg:mt-3">
-                Menguasai framework React Native dalam membuat Mobile
-                Application
+                Menguasai framework Flutter dalam membuat Mobile
+                Application pada platform android dan ios.
               </h2>
             </div>
           </div>
